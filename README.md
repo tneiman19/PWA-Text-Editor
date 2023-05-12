@@ -4,7 +4,7 @@ This application allows developers to create and store notes or code snippets, w
 
 # Application
 
-View this application at `https://jade-text-editor.herokuapp.com/`
+View this application at https://jade-text-editor.herokuapp.com/
 
 # Features
 
@@ -17,7 +17,7 @@ View this application at `https://jade-text-editor.herokuapp.com/`
 
 # Installation
 
-- Clone `https://github.com/tneiman19/PWA-Text-Editor.git`
+- Clone https://github.com/tneiman19/PWA-Text-Editor.git
 - Navigate to the project directory.
 - Install the dependencies using `npm install`.
 
@@ -28,4 +28,8 @@ View this application at `https://jade-text-editor.herokuapp.com/`
 
 # License
 
-This project uses the MIT license: [![Licensettt: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project uses the MIT license: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Images
+
+[![Screenshot of application in the browser.](./Assets/Screenshot.png)](https://jade-text-editor.herokuapp.com/)
